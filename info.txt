@@ -1,0 +1,1 @@
+/workspaces/exercicio-container (main) $ echo ${GITHUB_USER} >> info.txtNicollyTeodoro
